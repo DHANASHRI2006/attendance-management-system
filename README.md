@@ -18,12 +18,10 @@ A real-time attendance system using facial recognition built with **Python**, **
 **🛠️ Technologies Used**
 
 - Python 3.x  
-- OpenCV (`cv2`)  
-- DeepFace  
+- OpenCV (`cv2`)   
 - TensorFlow  
 - NumPy, Pandas  
-- CSV file handling  
-- Threading and Logging
+- CSV file handling 
 
 **Run the Application**
 
